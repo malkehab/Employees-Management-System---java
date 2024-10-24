@@ -186,7 +186,7 @@ This project was developed as a collaborative effort by our team:
 - Roaa Mohamed - [Github](https://github.com/roaa46)
 - Hana Shaker - [Github](https://github.com/hanaz12)
 - Seif Hatem - [Github](https://github.com/seif-138)
-- Eman Diab - [Github]()
+- Eman Diab - [Github](https://github.com/emandeyab)
 - 
 
 ## License

@@ -14,7 +14,7 @@ The Employees Management System is a Java-based desktop application that provide
 
 ### User Interfaces
 - **Home Interface**: Central navigation hub with options for Admin and Employee access
-- **Admin Portal**: 
+- **Admin Portal**:
   - Delete employee records
   - Update employee information
   - Manage employee data

@@ -187,7 +187,7 @@ This project was developed as a collaborative effort by our team:
 - Hana Shaker - [Github](https://github.com/hanaz12)
 - Seif Hatem - [Github](https://github.com/seif-138)
 - Eman Diab - [Github](https://github.com/emandeyab)
-- 
+- Malk Ehab - [Github](https://github.com/malkehab)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
